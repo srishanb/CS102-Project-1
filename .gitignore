@@ -1,0 +1,19 @@
+# Compiled Java classes
+*.class
+
+# Submission archives
+*.zip
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.iml
+*.jgrasp_session_files/
+*.gpj
+*.bak
+*~
+
+# Operating system files
+Thumbs.db
+desktop.ini
+.DS_Store
